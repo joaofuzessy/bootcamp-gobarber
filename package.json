@@ -1,0 +1,11 @@
+{
+  "name": "bootcamp-gobarber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/joaofuzessy/bootcamp-gobarber.git",
+  "author": "João Füzessy <joao.fuzessy@dtidigital.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
